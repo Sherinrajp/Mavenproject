@@ -5,9 +5,9 @@
     <classes>
       <class name="test_package.login_test">
         <methods>
-          <include name="loginobj"/>
+          <include name="kerala_titleverification_mthd"/>
+          <include name="objcreate"/>
           <include name="open"/>
-          <include name="titleverify"/>
         </methods>
       </class> <!-- test_package.login_test -->
     </classes>
